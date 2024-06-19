@@ -1,0 +1,127 @@
+[[patchutils]]
+arch = "aarch64"
+git-tree-sha1 = "69a1ac0c92372b42147e1e3c3b15160579898296"
+os = "macos"
+
+    [[patchutils.download]]
+    sha256 = "0059a25ab2afdde12298af4057613d08bd04d3a5d1d46708febadfb52bd5cae2"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.aarch64-apple-darwin.tar.gz"
+[[patchutils]]
+arch = "aarch64"
+git-tree-sha1 = "eaee43a1968d50717ae6b64098314d859d41449f"
+libc = "glibc"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "73c176fe6da6354e65c87a938a078c357d4d092da985e585bb72e54622962287"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.aarch64-linux-gnu.tar.gz"
+[[patchutils]]
+arch = "aarch64"
+git-tree-sha1 = "c63b0f2788a5c340e544098a35b065e717143a7a"
+libc = "musl"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "6cf95ff64b1fefc0193d5794c02af5e66dbe03210deab60932814f098f042358"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.aarch64-linux-musl.tar.gz"
+[[patchutils]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e1cdc380db83b16cc4f8beb18d995c730d0917fb"
+libc = "glibc"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "1f4a6ff8c4a0c1a63c290c719d18f2b273fd24d2aa494be75a4b6da4c4311315"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.armv6l-linux-gnueabihf.tar.gz"
+[[patchutils]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8d780751812054d310e82d3b0c4e13a1e5e91251"
+libc = "musl"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "df759891e7be559872b729c0b747218bd6b806c6538b27884cc596be5da46098"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.armv6l-linux-musleabihf.tar.gz"
+[[patchutils]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bad512c547526957cdde621eb79c237b7acf7729"
+libc = "glibc"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "a1735e8b3713b880a625fee09c911895ce6861e693f0a28b0f365b03a76b63c8"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.armv7l-linux-gnueabihf.tar.gz"
+[[patchutils]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8c7804fcfbd10921e192eea5ef4c27d5b8780d50"
+libc = "musl"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "0523f8fb8c26d9ab4ee94855a7c6d295050a069f966bbc25cd2e41e51748ff49"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.armv7l-linux-musleabihf.tar.gz"
+[[patchutils]]
+arch = "i686"
+git-tree-sha1 = "a153a824f077967c12c009f2706cb61a9479ce84"
+libc = "glibc"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "5b7e80ee6d3677bcef54e563e0fcf1a5fe59a09f5d92d62ca28e80a7cfbd4211"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.i686-linux-gnu.tar.gz"
+[[patchutils]]
+arch = "i686"
+git-tree-sha1 = "5afb6cfe53b52996e3b73212263b37e48a6d0013"
+libc = "musl"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "6c5605b5ca395ea3433b978b73e361bbdd99e815b53608af0c947a7959085616"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.i686-linux-musl.tar.gz"
+[[patchutils]]
+arch = "powerpc64le"
+git-tree-sha1 = "2c7fe28bedf866ce3815cc1c61a8cb73ff5b5d84"
+libc = "glibc"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "149c7f4cc0ac40f74099dcd0dcef578580f7dabeb388ae0d75d358f0585df56c"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.powerpc64le-linux-gnu.tar.gz"
+[[patchutils]]
+arch = "x86_64"
+git-tree-sha1 = "6a4527d46fefad003a5d84f50738bf5a09459eee"
+os = "macos"
+
+    [[patchutils.download]]
+    sha256 = "639e614d0dbd0bfde3afe9629d303753698d00da351c4df14f52df44aef16713"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.x86_64-apple-darwin.tar.gz"
+[[patchutils]]
+arch = "x86_64"
+git-tree-sha1 = "606414bb7659e1a16f4495eb6cb718398dda7b50"
+libc = "glibc"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "be13f56912e5a857f3bf9c559b767977e9e52766d38aaf30ae0652305fda1f3b"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.x86_64-linux-gnu.tar.gz"
+[[patchutils]]
+arch = "x86_64"
+git-tree-sha1 = "19561fc5a68f92b447c4536874d772eaa9356fe6"
+libc = "musl"
+os = "linux"
+
+    [[patchutils.download]]
+    sha256 = "eebfaeec1bc8c1d0d266a145c38e06be6e706180a5d16138cc2c1f633ce603e3"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.x86_64-linux-musl.tar.gz"
+[[patchutils]]
+arch = "x86_64"
+git-tree-sha1 = "763e784111f6775c31c528c438b3195614a7aef1"
+os = "freebsd"
+
+    [[patchutils.download]]
+    sha256 = "9f0708258cd058e2d29bd0511081235269d062d9b10ee60074df4b41a77d7132"
+    url = "https://github.com/JuliaBinaryWrappers/patchutils_jll.jl/releases/download/patchutils-v0.4.2+0/patchutils.v0.4.2.x86_64-unknown-freebsd.tar.gz"
