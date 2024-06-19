@@ -1,4 +1,4 @@
-# `patchutils_jll.jl` (v0.4.2+0)
+# `patchutils_jll.jl` (v0.4.2+1)
 
 [![deps](https://juliahub.com/docs/patchutils_jll/deps.svg)](https://juliahub.com/ui/Packages/General/patchutils_jll/)
 

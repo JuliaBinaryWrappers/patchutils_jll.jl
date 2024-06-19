@@ -1,6 +1,6 @@
 name = "patchutils_jll"
 uuid = "69275a5b-71b6-5a9c-a287-c8fd9491cd23"
-version = "0.4.2+0"
+version = "0.4.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
